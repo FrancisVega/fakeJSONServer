@@ -19,7 +19,12 @@
               "key": "a",
               "name": "The Hero Module",
               "title": "Hi! I'm a Hero Module",
-              "subtitle": "The Cool Hero Subtitle"
+              "subtitle": "The Cool Hero Subtitle",
+              "image": {
+                "url": "https://cdn.pixabay.com/photo/2019/08/30/18/43/mountains-4441978_960_720.jpg",
+                "alt": "foo",
+                "id": "theId"
+              }
             }
           ]
         }
