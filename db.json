@@ -3,5 +3,27 @@
   "comments": [{ "id": 1, "body": "some comment", "postId": 1 }, { "id": 2, "body": "some comment", "postId": 1 }],
   "profile": {
     "name": "typicode"
+  },
+  "content": {
+    "body": {
+      "sections": [
+        {
+          "id": "section",
+          "key": "a",
+          "component": "Section",
+          "title": "",
+          "subtitle": "",
+          "modules": [
+            {
+              "id": "hero-sheet",
+              "key": "a",
+              "name": "The Hero Module",
+              "title": "Hi! I'm a Hero Module",
+              "subtitle": "The Cool Hero Subtitle"
+            }
+          ]
+        }
+      ]
+    }
   }
 }
